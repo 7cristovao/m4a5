@@ -1,0 +1,15 @@
+$ sudo npm install -g http-server
+$ http-server .
+
+https://dog.ceo/dog-api/documentation/breed
+
+
+CRUD da comunicacao via API:
+
+GET ver se o registro ta guardado
+
+POST pega pra mim esse caminho e salve dentro de um site qq
+
+PUT serve para alterar essas informacoes
+
+DELETE recebe id e o apaga
